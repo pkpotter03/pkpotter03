@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
 
-- 🌱 I’m currently learning **c, c++, DSA, Web-dev, etc.**
+- 🌱 I’m currently learning **Java, DSA, Web-dev, c, c++, etc.**
 
 - 📫 How to reach me **pratikkumbhar2003@gmail.com**
 
