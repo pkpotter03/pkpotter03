@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 - 🌱 I’m currently learning **Java, DSA, Web-dev, c, c++, etc.**
