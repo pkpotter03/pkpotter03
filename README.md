@@ -16,7 +16,7 @@ I am a passionate and driven software developer with a strong foundation in prob
 
 ## 📫 Get in Touch
 - LinkedIn: [Pratik Kumbhar](https://www.linkedin.com/in/pkpotter03/)
-- Email: [pratik.kumbhar@example.com](mailto:pratikkumbhar@gmail.com)  
+- Email: [pratikkumbhar2003@gmail.com](mailto:pratikkumbhar2003@gmail.com)  
 - GitHub: You're already here! 😊
 
 ---
