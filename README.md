@@ -1,24 +1,33 @@
-# Hi, I'm Pratik Kumbhar! 👋
+# Hi, I'm Pratik Kumbhar 👋
 
-I am a passionate and driven software developer with a strong foundation in problem-solving, specializing in React.js and Data Structures & Algorithms (DSA). I am currently working towards mastering the MERN stack and building scalable, user-friendly web applications.
-
-## 🌟 About Me
-- 💻 React.js Frontend Developer and aspiring **MERN Stack Developer**
-- 🧠 Strong in **Data Structures and Algorithms (DSA)** with C++
-- 🚀 Passionate about building scalable and user-friendly web applications
-- 📈 Interested in **Deep Learning** and Python-based projects
-
-## 🔨 My Skills
-- **Frontend Development**: React.js, HTML, CSS, JavaScript
-- **Backend Development**: Learning Node.js, Express.js
-- **Programming**: C++, Java
-- **Others**: Git, MYSQL
-
-## 📫 Get in Touch
-- LinkedIn: [Pratik Kumbhar](https://www.linkedin.com/in/pkpotter03/)
-- Email: [pratikkumbhar2003@gmail.com](mailto:pratikkumbhar2003@gmail.com)  
-- GitHub: You're already here! 😊
+Full Stack Developer with hands-on experience in React, backend API development, SQL databases, and cloud deployments.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities. 🌟
+## 🛠 Tech Stack
+
+**Languages:** JavaScript, TypeScript, C#, C/C++, Java
+
+**Frontend:** React.js, Next.js, Angular, Tailwind CSS
+
+**Backend:** Node.js, NestJS, REST APIs, JWT Auth, Prisma
+
+**Databases:** PostgreSQL, MySQL, MongoDB
+
+**Cloud & DevOps:** AWS (EC2, S3), Docker, GitHub Actions, CI/CD
+
+---
+
+## 💼 Experience
+
+**Application and Product Development Intern** — Rivedix Technology Solutions *(Oct 2025 – Present)*
+
+Building full-stack applications with Next.js and NestJS, implementing REST APIs, role-based access control, and contributing to cloud deployments and CI/CD pipelines.
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pkpotter03-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pkpotter03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pratik--sys.vercel.app-black?style=flat&logo=vercel)](https://pratik-sys.vercel.app)
+[![Email](https://img.shields.io/badge/Email-pratikkumbhar2003@gmail.com-red?style=flat&logo=gmail)](mailto:pratikkumbhar2003@gmail.com)
