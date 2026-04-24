@@ -20,7 +20,7 @@ SDE at Rivedix Technology Solutions — building full-stack applications with Ne
 
 Full-stack development on production applications — REST APIs, RBAC, PostgreSQL, cloud deployments.
 
-{*Core work lives on the company GitHub.*}
+*Core work lives on the company GitHub.*
 
 ---
 
