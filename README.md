@@ -1,28 +1,24 @@
 # Hi, I'm Pratik Kumbhar 👋
 
-Full Stack Developer with hands-on experience in React, backend API development, SQL databases, and cloud deployments.
+SDE at Rivedix Technology Solutions — building full-stack applications with Next.js, NestJS, and PostgreSQL.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, C#, C/C++, Java
-
-**Frontend:** React.js, Next.js, Angular, Tailwind CSS
-
-**Backend:** Node.js, NestJS, REST APIs, JWT Auth, Prisma
-
-**Databases:** PostgreSQL, MySQL, MongoDB
-
-**Cloud & DevOps:** AWS (EC2, S3), Docker, GitHub Actions, CI/CD
+**Languages:** JavaScript, TypeScript, C#, C/C++, Java  
+**Frontend:** React.js, Next.js, Angular, Tailwind CSS  
+**Backend:** Node.js, NestJS, REST APIs, JWT Auth, Prisma ORM  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Cloud & DevOps:** AWS (EC2, S3), Docker, GitHub Actions, CI/CD  
 
 ---
 
 ## 💼 Experience
 
-**Application and Product Development Intern** — Rivedix Technology Solutions *(Oct 2025 – Present)*
+**Software Development Engineer** — Rivedix Technology Solutions *(Apr 2026 – Present)*  
 
-Building full-stack applications with Next.js and NestJS, implementing REST APIs, role-based access control, and contributing to cloud deployments and CI/CD pipelines.
+Full-stack development on production applications — REST APIs, RBAC, PostgreSQL, cloud deployments. Core work lives on the company GitHub.
 
 ---
 
